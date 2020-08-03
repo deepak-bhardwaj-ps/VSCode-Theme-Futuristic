@@ -1,9 +1,13 @@
 # Change Log
 
-All notable changes to the "futuristic" extension will be documented in this file.
+## v0.3.0
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+- Enhanced accessability for playground embedded editor
 
-## [Unreleased]
+## v0.2.0
 
+- Updated `readme.md` documentation
+- Enhanced accessability for debug toolbar
+
+## v0.1.0
 - Initial release

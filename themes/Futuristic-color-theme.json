@@ -1262,7 +1262,7 @@
 
     "welcomePage.buttonBackground": "#8AE2F410",
     "welcomePage.buttonHoverBackground": "#8AE2F420",
-    "walkThrough.embeddedEditorBackground": "#8AE2F420",
+    "walkThrough.embeddedEditorBackground": "#051323",
 
     "gitDecoration.modifiedResourceForeground": "#F49227",
     "gitDecoration.deletedResourceForeground": "#ff615b",
