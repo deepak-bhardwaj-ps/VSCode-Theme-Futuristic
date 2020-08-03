@@ -1,22 +1,36 @@
 {
-    "name": "futuristic",
-    "displayName": "Futuristic",
-    "description": "VS Code Futuristic Dark Theme",
-    "publisher": "Deepak-Bhardwaj",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.47.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Futuristic",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Futuristic-color-theme.json"
-            }
-        ]
-    }
+  "name": "futuristic",
+  "displayName": "Futuristic - Dark",
+  "description": "VS Code Futuristic Dark Theme",
+  "publisher": "Deepak-Bhardwaj",
+  "author": {
+    "name": "Deepak Bhardwaj",
+    "email": "deepak.bhardwaj@outlook.com"
+  },
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.47.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/deepak-bhardwaj-ps/VSCode-Theme-Futuristic.git"
+  },
+  "keywords": [
+    "VS Code",
+    "Theme",
+    "Dark Theme",
+    "Futuristic"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Futuristic",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Futuristic-color-theme.json"
+      }
+    ]
+  }
 }
