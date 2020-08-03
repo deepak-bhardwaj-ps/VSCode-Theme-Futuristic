@@ -1,0 +1,22 @@
+{
+    "name": "futuristic",
+    "displayName": "Futuristic",
+    "description": "VS Code Futuristic Dark Theme",
+    "publisher": "Deepak-Bhardwaj",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.47.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Futuristic",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Futuristic-color-theme.json"
+            }
+        ]
+    }
+}
