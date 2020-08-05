@@ -1,5 +1,10 @@
 # Change Log
 
+## V0.4.0
+
+- Enhanced accessability for prominent status-bar items
+- Enhanced selection and search result background
+
 ## v0.3.0
 
 - Enhanced accessability for playground embedded editor
