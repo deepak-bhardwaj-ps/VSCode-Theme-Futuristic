@@ -31,6 +31,11 @@
         "label": "Futuristic",
         "uiTheme": "vs-dark",
         "path": "./themes/Futuristic-color-theme.json"
+      },
+      {
+        "label": "Futuristic Green",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Futuristic-Green-color-theme.json"
       }
     ]
   }
