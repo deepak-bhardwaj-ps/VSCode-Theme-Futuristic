@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: VSCode-Theme-Futuristic
+  annotations:
+    github.com/project-slug: deepak-bhardwaj-ps/VSCode-Theme-Futuristic
+spec:
+  type: other
+  lifecycle: unknown
